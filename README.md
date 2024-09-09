@@ -1,6 +1,9 @@
 <h1 align="center">💫 Hello, I'm Ali Yemenli</h1>
 <h3 align="center">Currently, I am studying Electronics and Communication Engineering at Istanbul Technical University, also working at Siemens as a Part Time Software Engineer.</h3>
 
+
+
+
 - 👨‍💻 I’m mainly focused on **.NET Stack & AWS**
 
 
